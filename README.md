@@ -1,28 +1,39 @@
 # Dwayne O'Neill / NightFall Technologies
 
-I build and lead software, security, distributed-systems, cloud, storage, automation, and AI-assisted engineering work through **NightFall Technologies**.
+Founder and developer of **NightFall Technologies** — independent R&D across advanced computing, distributed cognition, security, communications, storage, and verifiable systems.
 
-## Hire NightFall Technologies
+**Company:** https://www.nightfalltechnologies.com  
+**Research archive:** https://www.nightfalltechnologies.com/research  
+**Current milestones:** https://www.nightfalltechnologies.com/progress
 
-### Security Architecture Risk Sprint - $1,500 fixed
+## Featured research: NightFall Proton
 
-A five-business-day architecture review for SaaS, AI, fintech, infrastructure, and technology teams. The engagement maps trust boundaries and abuse paths, prioritizes up to 15 findings, and delivers an evidence-backed 30-day remediation sequence.
+NightFall Proton is a working research integration combining durable cognitive state with NightFall's Mimetic Cognitive Fabric (MCF) and Counterfactual Skill Crystallization (CSC) path. The public research repository publishes bounded claims, evidence summaries, black-box evaluation specifications, integrity hashes, and a demonstration protocol while keeping the proprietary Proton/MCF/CSC implementation private.
+
+**[NightFall Proton Public Research Release 1.0](https://github.com/do2006/nightfall-proton-research)**  
+**[Read the Proton implementation milestone](https://www.nightfalltechnologies.com/progress#nmmq-implementations)**
+
+## Work with NightFall Technologies
+
+NightFall works with qualified organizations on evaluation, pilots, integration, research, licensing, and security engineering.
+
+### Security Architecture Risk Sprint — $750
+
+A five-business-day architecture review for SaaS, AI, fintech, infrastructure, and technology teams. The engagement maps trust boundaries and abuse paths and turns them into a prioritized remediation plan.
 
 **[View the Security Architecture Risk Sprint](https://www.nightfalltechnologies.com/services/security-architecture-sprint)**
 
-## Crypto wallet offboarding verification - $49
+## Open-source utility
 
-**NightFall Crypto Access Exit Check** is a read-only verifier for supported Safe smart-account permissions and token approvals. It is designed to answer a narrow question after an AI agent, bot, employee, or contractor is supposedly revoked: *what supported on-chain authority still remains?*
+**NightFall Crypto Access Exit Check** is a read-only verifier for supported Safe smart-account permissions and token approvals.
 
-**[View the open-source tool](https://github.com/do2006/nightfall-crypto-access-exit-check)**
-**[View the npm package](https://www.npmjs.com/package/nightfall-crypto-access-exit-check)**
-**[Buy a $49 verified exit report](https://www.paypal.com/ncp/payment/WHEDRHSJN6TFJ)**
+**[GitHub](https://github.com/do2006/nightfall-crypto-access-exit-check)** · **[npm](https://www.npmjs.com/package/nightfall-crypto-access-exit-check)**
 
 ## Engineering focus
 
-Rust | Python | TypeScript/JavaScript | C/C17 | Go-oriented backend work | AWS | distributed systems | security architecture | testing and verification | automation | AI-assisted engineering
+Rust | Python | TypeScript/JavaScript | C/C17 | AWS | distributed systems | security architecture | testing and verification | automation | AI-assisted engineering
 
-## Company
+## Contact
 
-**NightFall Technologies** - [nightfalltechnologies.com](https://www.nightfalltechnologies.com)
-Contact: **dwayneoneill@nightfalltechnologies.com**
+**NightFall Technologies** — https://www.nightfalltechnologies.com  
+**dwayneoneill@nightfalltechnologies.com**
